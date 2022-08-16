@@ -1,0 +1,16 @@
+{
+  "createRequest" : {
+    "name": "shanthi",
+    "id": 2,
+    "age": 22,
+    "email": "shanthi123@gmail.com"
+
+  },
+
+  "postRequest" : {
+    "name": "vijaya",
+    "id": 2,
+    "age": 16,
+    "email": "keerthi@gmail.com"
+  }
+}
